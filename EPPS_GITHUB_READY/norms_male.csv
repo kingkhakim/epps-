@@ -1,0 +1,436 @@
+need,raw_score,percentile,category
+ach,0,1,Very Low
+ach,1,1,Very Low
+ach,2,1,Very Low
+ach,3,1,Very Low
+ach,4,1,Very Low
+ach,5,2,Very Low
+ach,6,4,Very Low
+ach,7,6,Very Low
+ach,8,8,Very Low
+ach,9,12,Low
+ach,10,17,Low
+ach,11,23,Low
+ach,12,30,Average
+ach,13,37,Average
+ach,14,46,Average
+ach,15,54,Average
+ach,16,63,Average
+ach,17,70,Average
+ach,18,77,High
+ach,19,83,High
+ach,20,88,High
+ach,21,92,Very High
+ach,22,94,Very High
+ach,23,96,Very High
+ach,24,98,Very High
+ach,25,99,Very High
+ach,26,99,Very High
+ach,27,99,Very High
+ach,28,99,Very High
+def,0,1,Very Low
+def,1,1,Very Low
+def,2,1,Very Low
+def,3,1,Very Low
+def,4,2,Very Low
+def,5,3,Very Low
+def,6,5,Very Low
+def,7,8,Very Low
+def,8,11,Low
+def,9,16,Low
+def,10,21,Low
+def,11,28,Average
+def,12,35,Average
+def,13,43,Average
+def,14,52,Average
+def,15,60,Average
+def,16,68,Average
+def,17,75,High
+def,18,81,High
+def,19,86,High
+def,20,90,Very High
+def,21,93,Very High
+def,22,96,Very High
+def,23,97,Very High
+def,24,98,Very High
+def,25,99,Very High
+def,26,99,Very High
+def,27,99,Very High
+def,28,99,Very High
+ord,0,1,Very Low
+ord,1,1,Very Low
+ord,2,1,Very Low
+ord,3,1,Very Low
+ord,4,1,Very Low
+ord,5,1,Very Low
+ord,6,2,Very Low
+ord,7,4,Very Low
+ord,8,6,Very Low
+ord,9,9,Very Low
+ord,10,13,Low
+ord,11,18,Low
+ord,12,24,Low
+ord,13,32,Average
+ord,14,40,Average
+ord,15,48,Average
+ord,16,57,Average
+ord,17,65,Average
+ord,18,73,Average
+ord,19,80,High
+ord,20,85,High
+ord,21,90,Very High
+ord,22,93,Very High
+ord,23,96,Very High
+ord,24,97,Very High
+ord,25,98,Very High
+ord,26,99,Very High
+ord,27,99,Very High
+ord,28,99,Very High
+exh,0,1,Very Low
+exh,1,1,Very Low
+exh,2,1,Very Low
+exh,3,1,Very Low
+exh,4,3,Very Low
+exh,5,4,Very Low
+exh,6,7,Very Low
+exh,7,10,Low
+exh,8,15,Low
+exh,9,21,Low
+exh,10,28,Average
+exh,11,36,Average
+exh,12,45,Average
+exh,13,54,Average
+exh,14,62,Average
+exh,15,71,Average
+exh,16,78,High
+exh,17,84,High
+exh,18,89,High
+exh,19,93,Very High
+exh,20,95,Very High
+exh,21,97,Very High
+exh,22,98,Very High
+exh,23,99,Very High
+exh,24,99,Very High
+exh,25,99,Very High
+exh,26,99,Very High
+exh,27,99,Very High
+exh,28,99,Very High
+aut,0,1,Very Low
+aut,1,1,Very Low
+aut,2,1,Very Low
+aut,3,2,Very Low
+aut,4,3,Very Low
+aut,5,6,Very Low
+aut,6,9,Very Low
+aut,7,13,Low
+aut,8,19,Low
+aut,9,26,Average
+aut,10,34,Average
+aut,11,43,Average
+aut,12,52,Average
+aut,13,61,Average
+aut,14,70,Average
+aut,15,77,High
+aut,16,84,High
+aut,17,89,High
+aut,18,93,Very High
+aut,19,95,Very High
+aut,20,97,Very High
+aut,21,98,Very High
+aut,22,99,Very High
+aut,23,99,Very High
+aut,24,99,Very High
+aut,25,99,Very High
+aut,26,99,Very High
+aut,27,99,Very High
+aut,28,99,Very High
+aff,0,1,Very Low
+aff,1,1,Very Low
+aff,2,1,Very Low
+aff,3,1,Very Low
+aff,4,1,Very Low
+aff,5,3,Very Low
+aff,6,4,Very Low
+aff,7,7,Very Low
+aff,8,11,Low
+aff,9,16,Low
+aff,10,22,Low
+aff,11,30,Average
+aff,12,39,Average
+aff,13,48,Average
+aff,14,58,Average
+aff,15,67,Average
+aff,16,75,High
+aff,17,82,High
+aff,18,87,High
+aff,19,92,Very High
+aff,20,95,Very High
+aff,21,97,Very High
+aff,22,98,Very High
+aff,23,99,Very High
+aff,24,99,Very High
+aff,25,99,Very High
+aff,26,99,Very High
+aff,27,99,Very High
+aff,28,99,Very High
+int,0,1,Very Low
+int,1,1,Very Low
+int,2,1,Very Low
+int,3,1,Very Low
+int,4,1,Very Low
+int,5,2,Very Low
+int,6,3,Very Low
+int,7,6,Very Low
+int,8,9,Very Low
+int,9,13,Low
+int,10,18,Low
+int,11,25,Average
+int,12,32,Average
+int,13,41,Average
+int,14,50,Average
+int,15,59,Average
+int,16,68,Average
+int,17,75,High
+int,18,82,High
+int,19,87,High
+int,20,91,Very High
+int,21,94,Very High
+int,22,97,Very High
+int,23,98,Very High
+int,24,99,Very High
+int,25,99,Very High
+int,26,99,Very High
+int,27,99,Very High
+int,28,99,Very High
+suc,0,1,Very Low
+suc,1,1,Very Low
+suc,2,1,Very Low
+suc,3,1,Very Low
+suc,4,2,Very Low
+suc,5,3,Very Low
+suc,6,5,Very Low
+suc,7,8,Very Low
+suc,8,12,Low
+suc,9,16,Low
+suc,10,22,Low
+suc,11,29,Average
+suc,12,37,Average
+suc,13,46,Average
+suc,14,54,Average
+suc,15,63,Average
+suc,16,71,Average
+suc,17,78,High
+suc,18,84,High
+suc,19,88,High
+suc,20,92,Very High
+suc,21,95,Very High
+suc,22,97,Very High
+suc,23,98,Very High
+suc,24,99,Very High
+suc,25,99,Very High
+suc,26,99,Very High
+suc,27,99,Very High
+suc,28,99,Very High
+dom,0,1,Very Low
+dom,1,1,Very Low
+dom,2,1,Very Low
+dom,3,1,Very Low
+dom,4,2,Very Low
+dom,5,3,Very Low
+dom,6,5,Very Low
+dom,7,7,Very Low
+dom,8,11,Low
+dom,9,15,Low
+dom,10,21,Low
+dom,11,28,Average
+dom,12,35,Average
+dom,13,43,Average
+dom,14,52,Average
+dom,15,60,Average
+dom,16,68,Average
+dom,17,75,High
+dom,18,81,High
+dom,19,87,High
+dom,20,91,Very High
+dom,21,94,Very High
+dom,22,96,Very High
+dom,23,97,Very High
+dom,24,99,Very High
+dom,25,99,Very High
+dom,26,99,Very High
+dom,27,99,Very High
+dom,28,99,Very High
+aba,0,1,Very Low
+aba,1,1,Very Low
+aba,2,1,Very Low
+aba,3,1,Very Low
+aba,4,2,Very Low
+aba,5,3,Very Low
+aba,6,4,Very Low
+aba,7,7,Very Low
+aba,8,10,Low
+aba,9,14,Low
+aba,10,19,Low
+aba,11,25,Average
+aba,12,32,Average
+aba,13,40,Average
+aba,14,48,Average
+aba,15,57,Average
+aba,16,65,Average
+aba,17,72,Average
+aba,18,79,High
+aba,19,84,High
+aba,20,89,High
+aba,21,92,Very High
+aba,22,95,Very High
+aba,23,97,Very High
+aba,24,98,Very High
+aba,25,99,Very High
+aba,26,99,Very High
+aba,27,99,Very High
+aba,28,99,Very High
+nur,0,1,Very Low
+nur,1,1,Very Low
+nur,2,1,Very Low
+nur,3,1,Very Low
+nur,4,1,Very Low
+nur,5,1,Very Low
+nur,6,2,Very Low
+nur,7,3,Very Low
+nur,8,5,Very Low
+nur,9,8,Very Low
+nur,10,12,Low
+nur,11,18,Low
+nur,12,24,Low
+nur,13,32,Average
+nur,14,41,Average
+nur,15,50,Average
+nur,16,59,Average
+nur,17,68,Average
+nur,18,76,High
+nur,19,82,High
+nur,20,88,High
+nur,21,92,Very High
+nur,22,95,Very High
+nur,23,97,Very High
+nur,24,98,Very High
+nur,25,99,Very High
+nur,26,99,Very High
+nur,27,99,Very High
+nur,28,99,Very High
+cha,0,1,Very Low
+cha,1,1,Very Low
+cha,2,1,Very Low
+cha,3,1,Very Low
+cha,4,2,Very Low
+cha,5,3,Very Low
+cha,6,5,Very Low
+cha,7,8,Very Low
+cha,8,12,Low
+cha,9,16,Low
+cha,10,22,Low
+cha,11,30,Average
+cha,12,38,Average
+cha,13,46,Average
+cha,14,55,Average
+cha,15,64,Average
+cha,16,72,Average
+cha,17,79,High
+cha,18,85,High
+cha,19,89,High
+cha,20,93,Very High
+cha,21,95,Very High
+cha,22,97,Very High
+cha,23,98,Very High
+cha,24,99,Very High
+cha,25,99,Very High
+cha,26,99,Very High
+cha,27,99,Very High
+cha,28,99,Very High
+end,0,1,Very Low
+end,1,1,Very Low
+end,2,1,Very Low
+end,3,1,Very Low
+end,4,1,Very Low
+end,5,1,Very Low
+end,6,1,Very Low
+end,7,3,Very Low
+end,8,4,Very Low
+end,9,7,Very Low
+end,10,10,Low
+end,11,15,Low
+end,12,21,Low
+end,13,28,Average
+end,14,36,Average
+end,15,45,Average
+end,16,54,Average
+end,17,62,Average
+end,18,71,Average
+end,19,78,High
+end,20,84,High
+end,21,89,High
+end,22,93,Very High
+end,23,95,Very High
+end,24,97,Very High
+end,25,98,Very High
+end,26,99,Very High
+end,27,99,Very High
+end,28,99,Very High
+het,0,1,Very Low
+het,1,1,Very Low
+het,2,1,Very Low
+het,3,2,Very Low
+het,4,4,Very Low
+het,5,6,Very Low
+het,6,9,Very Low
+het,7,13,Low
+het,8,18,Low
+het,9,24,Low
+het,10,32,Average
+het,11,40,Average
+het,12,48,Average
+het,13,57,Average
+het,14,65,Average
+het,15,73,Average
+het,16,80,High
+het,17,85,High
+het,18,90,Very High
+het,19,93,Very High
+het,20,96,Very High
+het,21,97,Very High
+het,22,98,Very High
+het,23,99,Very High
+het,24,99,Very High
+het,25,99,Very High
+het,26,99,Very High
+het,27,99,Very High
+het,28,99,Very High
+agg,0,1,Very Low
+agg,1,1,Very Low
+agg,2,1,Very Low
+agg,3,2,Very Low
+agg,4,3,Very Low
+agg,5,5,Very Low
+agg,6,7,Very Low
+agg,7,11,Low
+agg,8,15,Low
+agg,9,21,Low
+agg,10,28,Average
+agg,11,35,Average
+agg,12,43,Average
+agg,13,52,Average
+agg,14,60,Average
+agg,15,68,Average
+agg,16,75,High
+agg,17,81,High
+agg,18,87,High
+agg,19,91,Very High
+agg,20,94,Very High
+agg,21,96,Very High
+agg,22,97,Very High
+agg,23,99,Very High
+agg,24,99,Very High
+agg,25,99,Very High
+agg,26,99,Very High
+agg,27,99,Very High
+agg,28,99,Very High
